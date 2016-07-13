@@ -1,0 +1,134 @@
+#SoldSimplyLogo {
+	width: 200px;
+	height: 200px;
+	display: block;
+    margin: 0 auto;
+}
+
+.mainbutton {
+	border-radius: 2px;
+	border: 0px;
+	color: red;
+	text-shadow: none;
+	background-color: #ffffff;
+	float: center;
+	font-size: 19px;
+	text-decoration: none;
+}
+
+.jumbotron {
+	padding-top: 125px;
+	padding-bottom: 125px;
+	margin-left: 125px;
+	margin-right: 125px;
+	margin-top: 40px;
+	align-items: center;
+	background: url('../img/boxes.jpg');
+    background-repeat: no-repeat;
+	color: #ffffff;
+	display: block;
+	background-size: cover;
+}
+
+#pictureheader {
+	text-align: center;
+	font-size: 50px;
+}
+
+h1 {
+	font-family: 'Product Sans';
+	font-style: normal;
+	font-weight: bold;
+	text-align: center;
+	font-size: 20px auto;
+	
+}
+
+li {
+	float: center;
+	display: inline-block;
+    margin:5px auto;
+    width:175px;
+	
+}
+
+li a {
+	display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+	font-size: auto;
+}
+
+li a:hover {
+    background-color: #111;
+
+}
+
+ul {
+	text-align: center;
+	list-style-type: none;
+    padding: 0;
+	width: 100%;
+	background-color: #ffffff;
+}
+
+a {
+    background-color: #dddddd;
+}
+
+p {
+	font-size: auto;
+	text-indent: 50px;
+}
+.main {
+	margin-left: 200px;
+	margin-right:200px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 5px 5px;
+}
+
+.about {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: #ffe6e6;
+}
+
+.howitworks {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: #f2f2f2;
+}
+
+.whysoldsimply {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: #ffe6e6;
+}
+
+.whatsells {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: #f2f2f2;
+}
+
+.commission {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: #ffe6e6;
+}
+
+.contact {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: #f2f2f2;
+}
+
+#whatsellspic {
+	background color: #ffffff;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
