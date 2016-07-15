@@ -48,7 +48,7 @@ li {
 	float: center;
 	display: inline-block;
     margin:5px auto;
-    width:175px;
+    width:155px;
 	
 }
 
@@ -56,7 +56,9 @@ li a {
 	display: block;
     color: white;
     text-align: center;
-    padding: 15px 15px;
+    padding: 5px 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
     text-decoration: none;
 	font-size: auto;
 }
@@ -83,8 +85,8 @@ p {
 	text-indent: 50px;
 }
 .main {
-	margin-left: 200px;
-	margin-right:200px;
+	margin-left: 130px;
+	margin-right:130px;
 	margin-top: 20px;
 	margin-bottom: 20px;
 	padding: 5px 5px;
