@@ -108,7 +108,8 @@ p {
 	margin-top: 20px;
 	margin-bottom: 20px;
 	background-color: #f2f2f2;
-	line-height: 100%
+	line-height: 100%;
+	text-align: center;
 }
 
 .whysoldsimply {
@@ -137,7 +138,7 @@ p {
 }
 
 .howitworkstext {
-	text-align: left;
+	text-align: center;
 }
 
 #googleforms {
